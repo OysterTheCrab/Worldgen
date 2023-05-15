@@ -1,0 +1,15 @@
+{
+    "name": "otc.fishing:fishing_hut_upper_connector_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "otc.fishing:fishing_hut_upper",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

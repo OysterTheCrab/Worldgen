@@ -1,0 +1,60 @@
+{
+    "name": "otc.fishing:outside_decor_pool_back",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/occ",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/coc",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/aaa",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/ooo",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/ccc",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:outside_decor/aca",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      }
+    ]
+  }

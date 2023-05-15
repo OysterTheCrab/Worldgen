@@ -1,0 +1,150 @@
+{
+    "name": "otc.fishing:beds",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/black",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/blue",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/brown",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/cyan",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/green",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/grey",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/light_blue",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/light_grey",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/lime",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/magenta",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/orange",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/pink",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/purple",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/red",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/white",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "otc.fishing:beds/yellow",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      }
+    ]
+  }
